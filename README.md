@@ -17,7 +17,8 @@ Hi! I'm an ASIR/ASIX student at *Institut Tecnològic de Barcelona* specializing
 ---
 
 ### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jheremysebastian17&theme=discord-old-blurple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jheremysebastian17&theme=discord-old-blurple)](https://git.io/streak-stats)
+
 ---
 
 ### 📫 Connect with me
