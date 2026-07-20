@@ -17,7 +17,7 @@ Hi! I'm an ASIR/ASIX student at *Institut Tecnològic de Barcelona* specializing
 ---
 
 ### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?jheremysebastian17=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
