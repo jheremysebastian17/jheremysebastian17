@@ -1,4 +1,3 @@
-
 # Jheremy Sánchez | Systems & Network Administration Student 
 
 Hi! I'm an ASIR/ASIX student at *Institut Tecnològic de Barcelona* specializing in **Defensive Cybersecurity** and **System Administration**.
@@ -17,7 +16,7 @@ Hi! I'm an ASIR/ASIX student at *Institut Tecnològic de Barcelona* specializing
 ---
 
 ### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?jheremysebastian17=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jheremysebastian17-web&theme=discord-old-blurple)](https://git.io/streak-stats)
 
 ---
 
