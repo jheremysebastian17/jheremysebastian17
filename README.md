@@ -1,17 +1,29 @@
 # Jheremy Sánchez | Systems & Network Administration Student 
 
-Hi! I'm an ASIR/ASIX student at *Institut Tecnològic de Barcelona* specializing in **Defensive Cybersecurity** and **System Administration**.
+Hi! I'm a Systems & Network Administration (ASIX) student at *Institut Tecnològic de Barcelona* focused on **System Administration** and **Network Infrastructure**.
 
+---
 
 ### 🚀 About Me
-- 🔭 **Studying:** Systems & Network Administration, with an emphasis on cybersecurity protocols and infrastructure management.
-- 💻 **Tech Stack:** Linux (Debian) & Windows Server | TCP/IP, DNS & DHCP | Python Scripting | Virtualization (VirtualBox).
-- 🎯 **Goal:** Building a solid background in defensive security, network configuration, and sysadmin operations through hands-on lab environments.
+- 🔭 **Studying:** Systems & Network Administration (1st Year ASIX).
+- 💻 **Core Skills:** Linux & Windows Server administration, network services (DNS, DHCP), and automation with Python & Bash.
+- 🎯 **Goal:** Building a strong foundation in network design, system administration, and infrastructure management through hands-on lab environments.
 
 ---
 
 ### 🛠 Tech & Tools
-`Linux` · `Windows Server` · `Networking (TCP/IP / DNS)` · `Python` · `VirtualBox` · `Cybersecurity`
+
+#### Operating Systems & Virtualization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,virtualbox" alt="OS and Virtualization" />
+</p>
+
+#### Networking, Scripting & Dev Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,vscode,github,git" alt="Tools and Scripting" />
+</p>
+
+`TCP/IP` · `DNS & DHCP` · `Windows Server` · `Network Configuration`
 
 ---
 
@@ -22,4 +34,4 @@ Hi! I'm an ASIR/ASIX student at *Institut Tecnològic de Barcelona* specializing
 
 ### 📫 Connect with me
 - **LinkedIn:** [jheremysanchez](https://www.linkedin.com/in/jheremysanchez/)
-- **Email:** sanchezjheremy17@gmail.com
+- **Email:** jheremysebastian17@gmail.com
