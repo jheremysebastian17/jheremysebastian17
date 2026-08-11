@@ -27,8 +27,6 @@ Hi! I'm a Systems & Network Administration (ASIX) student at *Institut Tecnològ
 
 ---
 
----
-
 ### 📌 Featured Projects
 
 <table align="center" width="100%">
@@ -51,6 +49,19 @@ Hi! I'm a Systems & Network Administration (ASIX) student at *Institut Tecnològ
     </td>
   </tr>
 </table>
+
+---
+
+---
+
+### 📌 Featured Projects
+
+#### 🛡️ [The Daily Exploit](https://github.com/jheremysebastian17/the-daily-exploit)
+> *Herramienta enfocada en ciberseguridad defensiva y análisis de ciberamenazas.*
+
+* **Key Features:** Monitoreo y automatización de reportes de vulnerabilidades.
+* **Tech Stack:** `Python` · `Linux` · `Bash` · `Git`
+* 🔗 **Link:** [github.com/jheremysebastian17/the-daily-exploit](https://github.com/jheremysebastian17/the-daily-exploit)
 
 ---
 
