@@ -5,7 +5,7 @@ Hi! I'm a Systems & Network Administration (ASIX) student at *Institut Tecnològ
 ---
 
 ### 🚀 About Me
-- 🔭 **Studying:** Systems & Network Administration (1st Year ASIX).
+- 🔭 **Studying:** Systems & Network Administration (2nd Year ASIX).
 - 💻 **Core Skills:** Linux & Windows Server administration, network services (DNS, DHCP), and automation with Python & Bash.
 - 🎯 **Goal:** Building a strong foundation in network design, system administration, and infrastructure management through hands-on lab environments.
 
