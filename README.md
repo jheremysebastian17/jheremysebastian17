@@ -8,7 +8,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/jheremysanchez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:jheremy.sanchez.7e9@itb.cat"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:jheremysebastian17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Location-Barcelona-181717?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://komarev.com/ghpvc/?username=jheremysanchez7e9-web&style=flat-square&color=5865F2&label=Profile+views" alt="Profile views" />
   </p>
@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <p>2nd-year Systems & Network Administration (ASIX) student at <strong>Institut Tecnològic de Barcelona</strong>, focused on <strong>System Administration</strong>, <strong>Network Infrastructure</strong> and <strong>Defensive Cybersecurity</strong>.</p>
+      <p>2nd-year Systems & Network Administration (ASIX) student focused on <strong>System Administration</strong>, <strong>Network Infrastructure</strong> and <strong>Defensive Cybersecurity</strong>.</p>
       <ul>
         <li>🔭 <strong>Studying:</strong> Systems & Network Administration (2nd year ASIX).</li>
         <li>💻 <strong>Core skills:</strong> Linux & Windows Server administration, network services (DNS, DHCP), automation with Python & Bash.</li>
@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td><strong>🌐 ProjecteTransversalASIXc_25-26</strong></td>
-    <td>Cross-curricular project integrating systems administration, network services and security implementation.</td>
+    <td>Comprehensive project integrating systems administration, network services and security implementation.</td>
     <td><code>Linux</code> <code>Bash</code> <code>Networking</code></td>
     <td align="center"><a href="https://github.com/jheremysanchez7e9-web/ProjecteTransversalASIXc_25-26">Repository</a></td>
   </tr>
@@ -121,11 +121,11 @@
 
 <hr />
 
-<h2 id="contact">Contact & Credentials</h2>
+<h2 id="contact">Contact</h2>
 
-* **Institutional email:** [jheremy.sanchez.7e9@itb.cat](mailto:jheremy.sanchez.7e9@itb.cat)
+* **Email:** [jheremysebastian17@gmail.com](mailto:jheremysebastian17@gmail.com)
 * **LinkedIn:** [linkedin.com/in/jheremysanchez](https://www.linkedin.com/in/jheremysanchez/)
-* **Academic center:** Institut Tecnològic de Barcelona (ITB)
+* **Location:** Barcelona
 
 <p align="center">
   <sub>⬆️ <a href="#top">Back to top</a></sub>
