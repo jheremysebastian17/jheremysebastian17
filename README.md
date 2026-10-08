@@ -2,7 +2,7 @@
   <h1>Jheremy Sánchez</h1>
   <p><strong>Systems & Network Administration Student | Defensive Cybersecurity Enthusiast</strong></p>
 
-  <a href="https://github.com/jheremysanchez7e9-web">
+  <a href="https://github.com/jheremysebastian17">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=5865F2&center=true&vCenter=true&width=560&lines=Systems+%26+Network+Administration;Linux+%7C+Windows+Server+%7C+Networking;Defensive+Cybersecurity+%26+Automation" alt="Typing SVG" />
   </a>
 
@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/jheremysanchez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:jheremysebastian17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Location-Barcelona-181717?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=jheremysanchez7e9-web&style=flat-square&color=5865F2&label=Profile+views" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=jheremysebastian17&style=flat-square&color=5865F2&label=Profile+views" alt="Profile views" />
   </p>
 
   <p>
@@ -115,8 +115,8 @@
 <h2 id="github-stats">GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jheremysanchez7e9-web&show_icons=true&theme=discord_old_blurple&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheremysanchez7e9-web&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jheremysebastian17&show_icons=true&theme=discord_old_blurple&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheremysebastian17&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top languages" />
 </p>
 
 <hr />
