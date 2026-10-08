@@ -31,11 +31,11 @@
     <td width="55%" valign="top">
       <p>2nd-year Systems & Network Administration (ASIX) student focused on <strong>System Administration</strong>, <strong>Network Infrastructure</strong> and <strong>Defensive Cybersecurity</strong>.</p>
       <ul>
-        <li>🔭 <strong>Studying:</strong> Systems & Network Administration (2nd year ASIX).</li>
-        <li>💻 <strong>Core skills:</strong> Linux & Windows Server administration, network services (DNS, DHCP), automation with Python & Bash.</li>
-        <li>🛡️ <strong>Interests:</strong> System hardening, cyber threat analysis and vulnerability monitoring.</li>
-        <li>🧪 <strong>Methodology:</strong> Hands-on virtualization labs and automation scripts.</li>
-        <li>🎯 <strong>Goal:</strong> Building resilient, secure network architectures and growing in sysadmin operations.</li>
+        <li> <strong>Studying:</strong> Systems & Network Administration (2nd year ASIX).</li>
+        <li> <strong>Core skills:</strong> Linux & Windows Server administration, network services (DNS, DHCP), automation with Python & Bash.</li>
+        <li> <strong>Interests:</strong> System hardening, cyber threat analysis and vulnerability monitoring.</li>
+        <li> <strong>Methodology:</strong> Hands-on virtualization labs and automation scripts.</li>
+        <li> <strong>Goal:</strong> Building resilient, secure network architectures and growing in sysadmin operations.</li>
       </ul>
     </td>
     <td width="45%" valign="top">
