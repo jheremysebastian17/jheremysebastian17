@@ -42,7 +42,7 @@
       <h3 align="center">Activity Metrics</h3>
       <p align="center">
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=jheremysanchez7e9-web&theme=discord-old-blurple&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+          <img src="https://streak-stats.demolab.com/?user=jheremysebastian17&theme=discord-old-blurple&hide_border=true" width="100%" alt="GitHub Streak Stats" />
         </a>
       </p>
     </td>
