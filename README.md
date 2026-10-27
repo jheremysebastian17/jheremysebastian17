@@ -92,6 +92,15 @@
     <th align="center">Links</th>
   </tr>
   <tr>
+    <td><strong>💼 PersonalPortfolio</strong></td>
+    <td>Personal portfolio website highlighting skills, projects, and professional background.</td>
+    <td><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></td>
+    <td align="center">
+      <a href="https://jheremysanchez7e9-web.github.io/PersonalPortfolio/">Live Demo</a> ·
+      <a href="https://github.com/jheremysanchez7e9-web/PersonalPortfolio">Code</a>
+    </td>
+  </tr>
+  <tr>
     <td><strong>🛡️ The Daily Exploit</strong></td>
     <td>Defensive cybersecurity tool for cyber threat analysis, with monitoring and automated reporting of vulnerabilities.</td>
     <td><code>Python</code> <code>Linux</code> <code>Bash</code> <code>Git</code></td>
