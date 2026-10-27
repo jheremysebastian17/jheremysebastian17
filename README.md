@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/jheremysanchez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:jheremysebastian17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Location-Barcelona-181717?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=jheremysanchez7e9-web&style=flat-square&color=5865F2&label=Profile+views" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=jheremysebastian17&style=flat-square&color=5865F2&label=Profile+views" alt="Profile views" />
   </p>
 
   <p>
@@ -42,7 +42,7 @@
       <h3 align="center">Activity Metrics</h3>
       <p align="center">
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=jheremysebastian17&theme=discord-old-blurple&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+          <img src="https://streak-stats.demolab.com/?user=jheremysanchez7e9-web&theme=discord-old-blurple&hide_border=true" width="100%" alt="GitHub Streak Stats" />
         </a>
       </p>
     </td>
@@ -99,6 +99,12 @@
       <a href="https://jheremysanchez7e9-web.github.io/PersonalPortfolio/">Live Demo</a> ·
       <a href="https://github.com/jheremysanchez7e9-web/PersonalPortfolio">Code</a>
     </td>
+  </tr>
+  <tr>
+    <td><strong>🔐 The Cryptic Club</strong></td>
+    <td>Cybersecurity and cryptography focused project featuring tools and security challenges.</td>
+    <td><code>Python</code> <code>Security</code> <code>Cryptography</code></td>
+    <td align="center"><a href="https://github.com/jheremysebastian17/thecrypticclub">Repository</a></td>
   </tr>
   <tr>
     <td><strong>🛡️ The Daily Exploit</strong></td>
