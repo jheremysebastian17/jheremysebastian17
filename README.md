@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/jheremysanchez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:jheremysebastian17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Barcelona-181717?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=jheremysebastian17&style=for-the-badge&color=5865F2&label=Profile+views" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=jheremysanchez7e9-web&style=for-the-badge&color=5865F2&label=Profile+views" alt="Profile views" />
   </p>
 
   <p>
@@ -117,11 +117,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/galaxy?username=jheremysebastian17&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F296196412%3Fu%3Dd547f292dcf7ac204fbc032b76203dc297161d61%26v%3D4" alt="jheremysebastian17 galaxy visual" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=jheremysebastian17&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F296196412%3Fu%3Dd547f292dcf7ac204fbc032b76203dc297161d61%26v%3D4" alt="jheremysebastian17 city visual" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jheremysebastian17&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 </p>
 
 <hr />
