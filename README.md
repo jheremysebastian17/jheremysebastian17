@@ -111,13 +111,21 @@
 
 <h2 id="github-stats">GitHub Stats</h2>
 
+<!-- Cards are generated daily by .github/workflows/profile-widgets.yml -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jheremysebastian17&show_icons=true&theme=discord_old_blurple&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheremysebastian17&layout=compact&theme=discord_old_blurple&hide_border=true" alt="Top languages" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jheremysebastian17&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jheremysebastian17/jheremysebastian17/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/jheremysebastian17/jheremysebastian17/output/snake-light.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 <hr />
