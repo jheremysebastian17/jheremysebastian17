@@ -70,6 +70,15 @@
     <th align="center">Links</th>
   </tr>
   <tr>
+    <td><strong>🧰 NetSec Toolkit</strong></td>
+    <td>Seven client-side tools for sysadmins and blue teams: subnet calculator, firewall generator, security headers, password checker, hardening audit, auth.log analyzer and uptime monitor.</td>
+    <td><code>JavaScript</code> <code>Bash</code> <code>Security</code></td>
+    <td align="center">
+      <a href="https://jheremysebastian17.github.io/netsec-toolkit/">Live Demo</a> ·
+      <a href="https://github.com/jheremysebastian17/netsec-toolkit">Code</a>
+    </td>
+  </tr>
+  <tr>
     <td><strong>🛡️ The Daily Exploit</strong></td>
     <td>Real-time cyber threat intelligence platform: CVE tracker and InfoSec news feed.</td>
     <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
