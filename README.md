@@ -70,6 +70,15 @@
     <th align="center">Links</th>
   </tr>
   <tr>
+    <td><strong>♟️ PawnScope</strong></td>
+    <td>Chess.com game review in the browser with Stockfish 18: move classifications, an analyst that explains every move, board arrows and accuracy stats.</td>
+    <td><code>JavaScript</code> <code>WebAssembly</code> <code>Stockfish</code></td>
+    <td align="center">
+      <a href="https://jheremysebastian17.github.io/pawnscope/">Live Demo</a> ·
+      <a href="https://github.com/jheremysebastian17/pawnscope">Code</a>
+    </td>
+  </tr>
+  <tr>
     <td><strong>🧰 NetSec Toolkit</strong></td>
     <td>Seven client-side tools for sysadmins and blue teams: subnet calculator, firewall generator, security headers, password checker, hardening audit, auth.log analyzer and uptime monitor.</td>
     <td><code>JavaScript</code> <code>Bash</code> <code>Security</code></td>
